@@ -1,0 +1,19 @@
+/* 
+@media (max-width:1420px) {
+    .big-box {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (max-width:1420px) {
+    .right-box {
+        margin: 20px auto;
+    }
+}
+@media (max-width:1024px) {
+    .bottom-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+} */
